@@ -6,7 +6,7 @@
 
 ## Summary
 
-This repository corresponds to my solution on the technical assesment presented for applying to the Systems Engineerign Intern Position at Factored
+This repository corresponds to my solution on the technical assessment presented for applying to the Systems Engineerign Intern Position at Factored
 
 Here, you'll fin the web application designed and developed to find and manage easily the corportate profile of workers in the company. You can watch your own profile and the skills you have in a clear, friendly user interface.
 
